@@ -1,1 +1,1 @@
-# dsc_Knearest_Neoghbor_with_scikit_learn_lab
+# dsc_Knearest_Neighbor_with_scikit_learn_lab
